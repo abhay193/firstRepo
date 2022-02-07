@@ -7,3 +7,9 @@ class HelloG{
    System.out.println("Hii");
      }
    }
+   class HelloBrother{
+      public static void main(String args[]){
+  
+      System.out.println("Hii yaar ");
+     }
+   }
